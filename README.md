@@ -1,5 +1,5 @@
 # DSA-from-scratch
-DSA-from-scratch
+Usage:
 ```
 from DSA.Searching.BinarySearch import binarysearch as bs
 A = [i for i in range(100000)]
