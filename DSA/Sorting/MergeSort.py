@@ -1,4 +1,7 @@
 def mergeSort(A):
+	"""
+	Merge Sort Algorithm for change an unsorted Array into sorted array
+	"""
     if len(A)==2:
         if A[1]<A[0]:
             return A[::-1]

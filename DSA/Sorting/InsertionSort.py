@@ -1,4 +1,7 @@
 def insertionSort(A, verbose=False):
+	"""
+	Insertion Sort Algorithm for change an unsorted Array into sorted array
+	"""
     n = len(A)
     for i in range(1, n):
         temp = A[i]
