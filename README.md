@@ -1,4 +1,4 @@
-# DSA from scratch
+# DSA from scratch.
 Usage: Change this in future versions
 ```
 from DSA.Searching.BinarySearch import binarysearch as bs
